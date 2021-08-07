@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4abdec1-3298-4702-9587-988522334e95" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/FinderSeeker/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/FinderSeeker/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="a4abdec1-3298-4702-9587-988522334e95" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +87,7 @@
       <workItem from="1628175106039" duration="611000" />
       <workItem from="1628305331310" duration="614000" />
       <workItem from="1628307376824" duration="1563000" />
-      <workItem from="1628317665323" duration="2363000" />
+      <workItem from="1628317665323" duration="2699000" />
     </task>
     <servers />
   </component>
@@ -119,22 +117,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="532" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1628305388551" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1628341132943">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1628341458341">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1628341132943" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1628341132943">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1628341458341" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1628341458341">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1628341132943" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1628341132942">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1628341458341" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1628341458341">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1628341132942" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1628341132943">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1628341458341" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1628341458341">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1628341132943" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1628341458341" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1628307986563">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
