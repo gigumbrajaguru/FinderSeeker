@@ -1,1 +1,1 @@
-"web: gunicorn FinderSeeker.wsgi --log-file -"
+web: gunicorn FinderSeeker.wsgi

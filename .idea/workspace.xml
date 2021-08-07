@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4abdec1-3298-4702-9587-988522334e95" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinderSeeker/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/FinderSeeker/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +89,7 @@
       <workItem from="1628175106039" duration="611000" />
       <workItem from="1628305331310" duration="614000" />
       <workItem from="1628307376824" duration="1563000" />
-      <workItem from="1628317665323" duration="7972000" />
+      <workItem from="1628317665323" duration="8420000" />
     </task>
     <servers />
   </component>
